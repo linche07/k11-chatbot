@@ -1,0 +1,17 @@
+Sitemap: https://www.k11musea.com/sitemap.xml
+Sitemap: https://www.k11musea.com/zh-hk/sitemap.xml
+Sitemap: https://www.k11musea.com/zh-cn/sitemap.xml
+User-agent: *
+Disallow: /aspnet_client/
+Disallow: /bin/
+Disallow: /config/
+Disallow: /css/
+Disallow: /data/
+Disallow: /install/
+Disallow: /masterpages/
+Disallow: /python/
+Disallow: /scripts/
+Disallow: /umbraco/
+Disallow: /umbraco_client/
+Disallow: /usercontrols/
+Disallow: /xslt/
